@@ -6,6 +6,6 @@ I am passionate about data science and love innovating ideas that can be impleme
 
 I am currently learning **machine learning** (Scikit-learn, Tensorflow) and **web development** (HTML, CSS, Javascript) to create applications that can be beneficial to the society! (^o^)
 
-When I'm free, I like listening to music, playing badminton, and hiking!🚶🚶
+When I'm free, I like listening to music, playing badminton, and hiking! 🚶🚶
  
 Check out all my projects [here](https://github.com/TomPn?tab=repositories)!
