@@ -1,4 +1,4 @@
-# Hello There!
+# Hi There!
 
 🌟 Hi, I'm Tom! I'm currently an undergraudate pursing Bachelor of Honours Computing and Financial Management at the University of Waterloo. 
 
