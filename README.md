@@ -2,12 +2,12 @@
 
 🌟 Hi, I'm Tom! I'm currently an undergraduate studying Computer Science and Finance at the University of Waterloo. 
 
-I'm currently working on my startup [Red Robin Financial](https://www.linkedin.com/company/red-robin-financial/about/?viewAsMember=true) 
+I'm currently working on my startup [Red Robin Financial](https://www.linkedin.com/company/red-robin-financial/about/?viewAsMember=true), a financial services platform that provides investors with financial analytics tools to advise investment decisions.
 
-I'm passionate about data science and love innovating ideas that can be implemented using **Python**! I am well-acquainted with libraries such as [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Yahoo Finance](https://pypi.org/project/yfinance/), and [Matplotlib](https://matplotlib.org/).
+I am passionate about data science and machine learning, and I hope to use these skills to create applications to make our financial lives easier.
 
-I'm currently learning **machine learning** (Scikit-learn, Tensorflow) and **web development** (HTML, CSS, Javascript) to create applications that can be beneficial to the society! (^o^)
+Favourite Python Libraries: Pandas, Numpy, Matplotlib, yfinance
 
-When I'm free, I like listening to music, playing badminton, and hiking! 🚶🚶
+In my spare time, I enjoy listening to music, playing badminton, and hiking! 🚶🚶
  
-Check out all my projects [here](https://github.com/TomPn?tab=repositories)!
+Check out my projects [here](https://github.com/TomPn?tab=repositories)!
