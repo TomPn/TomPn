@@ -4,7 +4,7 @@
 
 I'm currently working on my startup [Red Robin Financial](https://www.linkedin.com/company/red-robin-financial/about/?viewAsMember=true), a financial services platform that provides investors with financial analytics tools to advise investment decisions.
 
-I am passionate about data science and machine learning, and I hope to use these skills to create applications to make our financial lives easier.
+I'm passionate about using data science and machine learning to create applications to improve our financial lives.
 
 Favourite Python Libraries: Pandas, Numpy, Matplotlib, yfinance
 
