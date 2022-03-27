@@ -2,7 +2,7 @@
 
 🌟 Hi, I'm Tom! I'm currently an undergraduate studying Computer Science and Finance at the University of Waterloo. 
 
-I'm passionate about data science and love innovating ideas that can be implemented using **Python**! I am well-acquainted with the librarys such as [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Yahoo Finance](https://pypi.org/project/yfinance/), and [Matplotlib](https://matplotlib.org/).
+I'm passionate about data science and love innovating ideas that can be implemented using **Python**! I am well-acquainted with libraries such as [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Yahoo Finance](https://pypi.org/project/yfinance/), and [Matplotlib](https://matplotlib.org/).
 
 I'm currently learning **machine learning** (Scikit-learn, Tensorflow) and **web development** (HTML, CSS, Javascript) to create applications that can be beneficial to the society! (^o^)
 
