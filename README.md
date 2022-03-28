@@ -1,4 +1,4 @@
-# Hi There!
+# Hi There! 👋
 
 🌟 Hi, I'm Tom! I'm currently an undergraduate studying Computer Science and Finance at the University of Waterloo. 
 
