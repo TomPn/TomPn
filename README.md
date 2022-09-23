@@ -2,7 +2,7 @@
 
 🌟 Hi, I'm Tom! I'm currently an undergraduate studying Computer Science and Finance at the University of Waterloo. 
 
-I'm currently working on a [Restaurant QR Code Ordering System](http://baijialaotang.epizy.com/), a web application that help a local restaurant manage their customer orders.
+I'm just finished a *Restaurant QR Code Ordering System*, a web application that help a local restaurant manage their customer orders, go [check it out](http://baijialaotang.epizy.com/)!
 
 I'm passionate about creating applications that can improve our lives! Right now, I'm learning React to enhance my software development skills!
 
