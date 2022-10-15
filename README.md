@@ -4,9 +4,7 @@
 
 I just finished a *Online Code Ordering System*, a web application that help a local restaurant manage their customer orders, go [check it out](http://baijialaotang.epizy.com/)!
 
-I'm passionate about creating applications that can improve our lives! Right now, I'm learning React to enhance my software development skills!
-
-Favourite Python Libraries: Pandas, Numpy, Matplotlib, yfinance
+I'm passionate about creating applications that can improve our lives! Right now, I'm learning React.js to enhance my software development skills!
 
 In my spare time, I enjoy listening to music, playing badminton, and hiking! 🚶🚶
  
