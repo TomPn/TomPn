@@ -1,13 +1,22 @@
-# Hi There! 👋
+# Hey there! 👋  
 
-🌟 Hi, I'm Tom! I'm currently an undergraduate studying Computer Science and Finance at the University of Waterloo. 
+### 🚀 Welcome to My GitHub!  
 
-I just finished a project: *LSTM stock predictor*, a regression model that predicts the stock price, go [check it out](https://github.com/TomPn/LSTM_stock_price_predictor)!
+I'm **Tom**, an undergraduate student at **the University of Waterloo**, majoring in **Computer Science and Finance**. I love building applications that make life easier, smarter, and more fun!  
 
-I'm passionate about creating applications that can improve our lives! 
+### 🔥 What I'm Up To  
+- Exploring the **power of deep learning** and how machine learning can shape the future.  
+- Developing projects that solve real-world problems.  
+- Always learning, experimenting, and pushing boundaries.  
 
-Right now, I'm learning deep learning to explore the power of machine learning!
+### 🎧 Beyond Coding  
+When I'm not buried in code, you’ll probably find me:  
+- 🎵 **Listening to music**  
+- 🏸 **Playing badminton**  
+- ⛰️ **Hiking and exploring new trails**  
 
-In my spare time, I enjoy listening to music, playing badminton, and hiking! 🚶🚶
- 
-Check out my projects [here](https://github.com/TomPn?tab=repositories)!
+### 🔗 Check Out My Work  
+Want to see what I’ve been working on? **[Browse my projects!](https://github.com/TomPn?tab=repositories)**  
+
+Let's connect and create something awesome! 🚀✨  
+
